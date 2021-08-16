@@ -1,0 +1,41 @@
+{
+  "name": "streameroobot",
+  "version": "1.0.0",
+  "description": "Twitch bot",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bendobbe"
+  },
+  "author": "bendobbe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bendobbe"
+  },
+  "homepage": "https://github.com/bendobbe",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.6.0",
+    "esm": "^3.2.25",
+    "fs": "0.0.1-security",
+    "hotkeys-js": "^3.8.7",
+    "howler": "^2.2.3",
+    "node-fetch": "^2.6.1",
+    "obs-websocket-js": "^4.0.2",
+    "papaparse": "^5.3.1",
+    "pg": "^8.7.1",
+    "queue": "^6.0.2",
+    "request": "^2.88.2",
+    "tmi.js": "^1.8.3",
+    "twitch": "^4.6.5",
+    "twitch-chat-client": "^4.6.5",
+    "twitch-pubsub-client": "^4.6.5",
+    "vue": "^2.6.14",
+    "vue2-animate": "^2.1.4",
+    "winwheel": "^1.0.1"
+  }
+}

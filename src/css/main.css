@@ -1,0 +1,22 @@
+body
+{
+    font-family: arial;
+}
+
+
+/* Sets the background image for the wheel */
+td.the_wheel
+{
+    background-image: url(../wheelfortunebackground.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.winner_text
+{
+    text-align: center;
+    color: red;
+    font-size: 35px;
+    word-wrap: break-word;
+    max-width: 100%;
+}

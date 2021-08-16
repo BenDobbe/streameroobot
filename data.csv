@@ -1,0 +1,13 @@
+Scene,Source,Duration,Redemption,Command
+OBS OVERLAYS,snowflake,8,FALSE,!snowflake
+OBS OVERLAYS,believers,5,FALSE,!payoutbelievers
+OBS OVERLAYS,doubters,5,FALSE,!payoutdoubters
+OBS OVERLAYS,clap,11,FALSE,!clap
+OBS OVERLAYS,sad,9,FALSE,!sad
+OBS OVERLAYS,badumtss,2,FALSE,!badumtss
+OBS OVERLAYS,bass,3,FALSE,!bassboost
+OBS OVERLAYS,dance,60,FALSE,!dance
+OBS OVERLAYS,spintowin,18,FALSE,!spintowin
+OBS OVERLAYS,Kame,42,FALSE,!KAME
+OBS OVERLAYS,Ayaya,18,FALSE,!AYAYA
+Scene,EOF,EOF,EOF,EOF
